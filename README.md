@@ -27,6 +27,3 @@ Once the application is running, you will see a message asking for forgiveness a
 
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
-## License
-
-MIT
